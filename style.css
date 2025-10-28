@@ -1,4 +1,9 @@
-body{
+main{
+    background-image: url(/images/design.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
 
 }
 
@@ -28,4 +33,13 @@ ul li a:hover{
 img{
     width: 70px;
     height: 70px;
+}
+
+h1{
+    font-size: 45px;
+    color: white;
+}
+
+h2{
+    color: white;
 }
