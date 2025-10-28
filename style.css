@@ -1,0 +1,31 @@
+body{
+
+}
+
+nav{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+ul li a{
+    display: flex;
+    padding: 16px;
+}
+
+ul li a:hover{
+    color:black
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}
