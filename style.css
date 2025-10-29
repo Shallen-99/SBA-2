@@ -69,3 +69,10 @@ button{
 form{
     text-align: center;
 }
+
+.services {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    /* place-items: center; */
+}
